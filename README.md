@@ -16,7 +16,7 @@
 ```typescript
 const hydra = {
     name: "Hydra Dev",
-    location: "Kanayannur, Kerala, IN 🌏",
+    location: "Alappuzha, Kerala, IN 🌏",
     currentFocus: ["Next.js 14+", "TypeScript", "Cloud Architecture"],
     
     workingOn: {
@@ -158,6 +158,6 @@ const hydra = {
 
 ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**Made with 💙 by Hydra Dev**
+**Made with 💙 by HYDRA**
 
 </div>
