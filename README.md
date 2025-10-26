@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HYDRA%20DEV&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20FiveM%20Scripter%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammed%20Yaseen&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20FiveM%20Scripter%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Building+the+Future+of+Web+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript;FiveM+Script+Developer+%F0%9F%8E%AE;Always+Learning%2C+Always+Coding+%F0%9F%92%BB" alt="Typing SVG" /></a>
